@@ -54,6 +54,9 @@ Timing is identity. Micro-rhythm can become visual storytelling.
 - Single-button controls with optional advanced mode.
 - End card with seed and style grade.
 
+## Shared Evaluation Rubric
+- See `EVALUATION_RUBRIC.md` for a consistent review matrix across c2m Playroom contributions.
+
 ## Teaser Video Storyboard (30 seconds)
 1. Shot 1 (0-4s): Neon heartline lane scrolls in with runner silhouette at start gate.
 2. Shot 2 (4-8s): First taps trigger acceleration and pink cardiogram terrain rise.
