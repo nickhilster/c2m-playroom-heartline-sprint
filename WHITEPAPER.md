@@ -54,5 +54,14 @@ Timing is identity. Micro-rhythm can become visual storytelling.
 - Single-button controls with optional advanced mode.
 - End card with seed and style grade.
 
+## Teaser Video Storyboard (30 seconds)
+1. Shot 1 (0-4s): Neon heartline lane scrolls in with runner silhouette at start gate.
+2. Shot 2 (4-8s): First taps trigger acceleration and pink cardiogram terrain rise.
+3. Shot 3 (8-12s): Perfect rhythm window converts obstacle into luminous ramp.
+4. Shot 4 (12-17s): Drift segment shows controlled release and smooth glide.
+5. Shot 5 (17-22s): Combo meter climbs; palette shifts from cool blue to hot magenta.
+6. Shot 6 (22-27s): Final sequence with dense waveform terrain and stable cadence.
+7. Shot 7 (27-30s): End card reveals heartline signature, tempo score, and replay seed.
+
 ## Why This Matters to c2m-verse
 Heartline Sprint gives Playroom a strong "one-more-run" loop while still feeling authored and artistic. It is competitive with itself, not with other people, fitting the c2m-verse ethos of expressive play.

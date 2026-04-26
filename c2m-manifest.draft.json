@@ -1,0 +1,16 @@
+{
+  "id": "heartline-sprint",
+  "title": "Heartline Sprint",
+  "description": "A rhythm runner where tap cadence sculpts terrain and momentum.",
+  "author": {
+    "name": "Code2Motion Contributor",
+    "url": "https://github.com/nickhilster"
+  },
+  "version": "0.1.0",
+  "iframe_url": "https://heartline-sprint.vercel.app/",
+  "thumbnail_url": "./prototype-screen.svg",
+  "interact_style": "tap",
+  "tags": ["rhythm", "runner", "timing", "kinetic"],
+  "permissions": ["pointer", "keyboard"],
+  "c2m_format_version": "1.0"
+}
